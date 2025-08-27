@@ -33,7 +33,12 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name!",
+        text = """
+            Hola Mundo
+            Este es el reto 0
+            Hecho por David Rativa
+            DADM 2025
+        """.trimIndent(),
         modifier = modifier
     )
 }
