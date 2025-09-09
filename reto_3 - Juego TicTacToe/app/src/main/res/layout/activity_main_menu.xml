@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainMenuActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TicTacToe DADM"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="64dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tienes cruz o círculo. Pon tu marca en el tablero y crea 3 marcas en fila, columna o diagonal para ganar."
+        android:textAlignment="center"
+        android:textSize="16sp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="48dp"/>
+
+    <Button
+        android:id="@+id/btnPlayerVsPlayer"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Jugador 1 vs Jugador 2"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jugador vs CPU (Elige la dificultad)"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/btnCpuEasy"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Fácil"/>
+
+    <Button
+        android:id="@+id/btnCpuMedium"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Intermedio"/>
+
+    <Button
+        android:id="@+id/btnCpuHard"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Difícil"/>
+
+</LinearLayout>
