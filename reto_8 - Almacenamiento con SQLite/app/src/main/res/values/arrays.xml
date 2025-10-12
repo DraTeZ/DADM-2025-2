@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clasificaciones_filtro">
+        <item>Todas</item>
+        <item>Consultoría</item>
+        <item>Desarrollo a la medida</item>
+        <item>Fábrica de software</item>
+    </string-array>
+</resources>
