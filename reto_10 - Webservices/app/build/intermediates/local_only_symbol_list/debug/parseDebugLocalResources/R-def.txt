@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnBuscar
+id chip2g
+id chip3g
+id chip4g
+id chip5g
+id chipGroupTecnologia
+id chipLte
+id chipTodas
+id etDepartamento
+id etMunicipio
+id etOperador
+id progressBar
+id recyclerViewResultados
+id tvCoberturaItem
+id tvEstadoResultados
+id tvMunicipioItem
+id tvOperadorItem
+id tvTecnologiaItem
+layout activity_main
+layout cobertura
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Coberturamovil
+style Theme.Coberturamovil
+xml backup_rules
+xml data_extraction_rules

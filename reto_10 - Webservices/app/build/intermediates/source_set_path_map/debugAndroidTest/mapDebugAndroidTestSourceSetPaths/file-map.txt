@@ -1,0 +1,7 @@
+com.example.coberturamovil.test.app-annotation-experimental-1.3.0-0 C:\Users\David\.gradle\caches\8.13\transforms\10708fad22e3894e9561ea29968d4272\transformed\annotation-experimental-1.3.0\res
+com.example.coberturamovil.test.app-core-1.5.0-1 C:\Users\David\.gradle\caches\8.13\transforms\debb03a34278bb672ccfcb7728d9c16d\transformed\core-1.5.0\res
+com.example.coberturamovil.test.app-androidTest-2 C:\Users\David\Documents\GitHub\DADM-2025-2\DADM-2025-2\coberturamovil\app\build\generated\res\resValues\androidTest\debug
+com.example.coberturamovil.test.app-updated_navigation_xml-3 C:\Users\David\Documents\GitHub\DADM-2025-2\DADM-2025-2\coberturamovil\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.coberturamovil.test.app-mergeDebugAndroidTestResources-4 C:\Users\David\Documents\GitHub\DADM-2025-2\DADM-2025-2\coberturamovil\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.coberturamovil.test.app-mergeDebugAndroidTestResources-5 C:\Users\David\Documents\GitHub\DADM-2025-2\DADM-2025-2\coberturamovil\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.coberturamovil.test.app-debugAndroidTest-6 C:\Users\David\Documents\GitHub\DADM-2025-2\DADM-2025-2\coberturamovil\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

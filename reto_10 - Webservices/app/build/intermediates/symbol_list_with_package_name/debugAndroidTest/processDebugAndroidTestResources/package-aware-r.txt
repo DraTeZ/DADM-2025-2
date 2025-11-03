@@ -1,0 +1,3 @@
+com.example.coberturamovil.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
