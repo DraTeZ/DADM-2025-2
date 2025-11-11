@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944970849421",
+    "project_id": "cobertura-f68ff",
+    "storage_bucket": "cobertura-f68ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944970849421:android:124c848ad8196f3c4896c4",
+        "android_client_info": {
+          "package_name": "com.example.coberturamovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdXuXmYntwO0BEZVvg3I-vDMo9Qr5410"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
