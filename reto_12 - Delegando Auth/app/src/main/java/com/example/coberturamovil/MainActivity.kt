@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
 
         generativeModel = GenerativeModel(
             modelName = "gemini-2.5-pro",
-            apiKey = "AIzaSyCQs32V9qyHp_uvOgMwJuv14UxSIRNiLyw"
+            apiKey = ""
         )
 
         setupRecyclerView()
