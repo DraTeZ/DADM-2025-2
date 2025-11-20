@@ -45,7 +45,7 @@ class MainActivity : AppCompatActivity() {
 
         generativeModel = GenerativeModel(
             modelName = "gemini-2.5-flash",
-            apiKey = "AIzaSyBOzmPSFqCKJj-7vaAEDc86m69whQ1Qh3U"
+            apiKey = ""
         )
 
         setupRecyclerView()
